@@ -1,4 +1,4 @@
-package com.example.myapplication.compasables
+package com.example.countryinfoapp.compasables
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.navigationBarsPadding

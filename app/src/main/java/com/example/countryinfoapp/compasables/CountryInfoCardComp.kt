@@ -1,4 +1,4 @@
-package com.example.myapplication.compasables
+package com.example.countryinfoapp.compasables
 
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -11,7 +11,6 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.example.countryinfoapp.compasables.CountryCardWithConstraintLayout
 import com.example.countryinfoapp.data.Country
 
 @Composable

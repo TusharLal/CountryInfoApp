@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.countryinfoapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -6,7 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import com.example.countryinfoapp.data.Country
 import com.example.countryinfoapp.data.getCountryListFromJson
-import com.example.myapplication.compasables.MainScreen
+import com.example.countryinfoapp.compasables.MainScreen
 
 class MainActivity : ComponentActivity() {
 
